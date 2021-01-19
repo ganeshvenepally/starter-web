@@ -7,6 +7,10 @@ This is a example for Git and Github
 
 ## Purpose
 
+Adding Purpose
+
 ## Deployment
+
+Adding Deployment
 
 ## How to contribute
